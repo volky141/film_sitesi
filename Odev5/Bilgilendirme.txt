@@ -1,0 +1,2 @@
+Bu proje, HTML ve CSS kullanılarak geliştirilmiş basit bir film web sitesidir. 
+Projeyi çalıştırmak için, proje klasörü içerisindeki "Anasayfa.html" dosyası açılmalıdır.
